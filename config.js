@@ -1,4 +1,4 @@
-import { watchFile, unwatchFile } from 'fs'
+50import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['233533763772', '𝚁𝙾𝙱𝙸𝙽', true],
+  ['233533763772', '𝚁𝙾𝙱𝙸𝙽n', true],
   ['919685031377', '𝚁𝙾𝙱𝙸𝙽', true], 
   ['917523808860', 'F9 CHARLIE', true], 
 ] //Number of owners
