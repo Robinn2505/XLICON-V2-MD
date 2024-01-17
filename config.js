@@ -56,12 +56,12 @@ global.premium = 'true'
 global.packname = '𝚁𝙾𝙱𝙸𝙽' 
 global.author = '@𝚁𝙾𝙱𝙸𝙽' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
-global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
-global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
+global.igfg = '▢✓ Follow My channel\nhttps://chat.whatsapp.com/Cqk0zyJFyKT8I5NUX3RPGQ\n' 
+global.dygp = 'https://chat.whatsapp.com/Cqk0zyJFyKT8I5NUX3RPGQ
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@s4salmanyt'
 global.fgpyp = 'https://youtube.com/@s4salmanyt'
-global.fglog = 'XLICON.jpg' 
+global.fglog = 'ROBIN.jpg' 
 global.thumb = fs.readFileSync('./XLICON.jpg')
 
 
